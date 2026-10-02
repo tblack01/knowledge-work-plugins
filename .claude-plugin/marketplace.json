@@ -1106,7 +1106,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Unity-Technologies/unity-agent-plugin.git",
-        "sha": "ba48956ae8bee4ef8a3ef3d75dec03c16aa5cc89"
+        "sha": "de668bfd2e4ece0613c331e653c8c48b03e7238d"
       },
       "homepage": "https://unity.com"
     },
